@@ -1,12 +1,12 @@
 {
   "mcpServers": {
-    "mcp-github-com-gongrzhe-office-word-mcp-server": {
+    "mcp-github-com-haris-musa-excel-mcp-server": {
       "args": [
-        "-m",
-        "word_document_server.main"
+        "excel-mcp-server",
+        "stdio"
       ],
       "autoApprove": [],
-      "command": "~/mcp_plugins/mcp-github-com-gongrzhe-office-word-mcp-server/venv/bin/python",
+      "command": "uvx",
       "disabled": true,
       "env": {}
     }

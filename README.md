@@ -1,15 +1,15 @@
-# mcp-github-com-gongrzhe-office-word-mcp-server
+# mcp-github-com-haris-musa-excel-mcp-server
 
-> wordmcp
+> excelmcp
 
 本仓库由 **Operit GitHub Publisher** 一键发布生成。
 
 ## 内容
 
 - 类型：MCP Server（模型上下文协议服务）
-- 标识：mcp-github-com-gongrzhe-office-word-mcp-server
-- 本地文件数：39
-- 启动命令：~/mcp_plugins/mcp-github-com-gongrzhe-office-word-mcp-server/venv/bin/python
+- 标识：mcp-github-com-haris-musa-excel-mcp-server
+- 本地文件数：30
+- 启动命令：uvx
 
 
 ## 说明
