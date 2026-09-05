@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mcp-github-com-gongrzhe-office-word-mcp-server": {
+      "args": [
+        "-m",
+        "word_document_server.main"
+      ],
+      "autoApprove": [],
+      "command": "~/mcp_plugins/mcp-github-com-gongrzhe-office-word-mcp-server/venv/bin/python",
+      "disabled": true,
+      "env": {}
+    }
+  }
+}
